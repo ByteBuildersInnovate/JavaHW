@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8923104-ba48-411c-a5e2-7d4ad9786ff8" name="Changes" comment="fifth">
-      <change afterPath="$PROJECT_DIR$/src/homework6/description" afterDir="false" />
+    <list default="true" id="f8923104-ba48-411c-a5e2-7d4ad9786ff8" name="Changes" comment="full commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaHW/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaHW/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaHW/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaHW/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Homework1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework1.Homework1" />
       <module name="JavaHW" />
@@ -59,6 +62,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework6.Main" />
+      <module name="JavaHW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="JavaHW" />
@@ -68,6 +84,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Homework3" />
         <item itemvalue="Application.Homework1" />
@@ -118,7 +135,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651826177273</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="des for sixth homework">
+      <created>1651826870425</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1651826870425</updated>
+    </task>
+    <task id="LOCAL-00007" summary="full commit">
+      <created>1651826926649</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1651826926649</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,6 +162,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="second homework" />
@@ -138,6 +170,8 @@
     <MESSAGE value="fourth homework" />
     <MESSAGE value="des" />
     <MESSAGE value="fifth" />
-    <option name="LAST_COMMIT_MESSAGE" value="fifth" />
+    <MESSAGE value="des for sixth homework" />
+    <MESSAGE value="full commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="full commit" />
   </component>
 </project>
