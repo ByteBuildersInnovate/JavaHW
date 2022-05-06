@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8923104-ba48-411c-a5e2-7d4ad9786ff8" name="Changes" comment="third homework">
+    <list default="true" id="f8923104-ba48-411c-a5e2-7d4ad9786ff8" name="Changes" comment="des">
+      <change afterPath="$PROJECT_DIR$/src/homework4/description" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651824318732</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fourth homework">
+      <created>1651825444534</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651825444534</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,6 +113,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="second homework" />
     <MESSAGE value="third homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="third homework" />
+    <MESSAGE value="fourth homework" />
+    <MESSAGE value="des" />
+    <option name="LAST_COMMIT_MESSAGE" value="des" />
   </component>
 </project>
