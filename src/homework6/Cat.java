@@ -2,15 +2,16 @@ package homework6;
 
 public class Cat  extends Animal{
 
-    protected boolean swim;
+    public static int countCat = 0;
+    public static String typeThisClass =  "Кот";
 
-    public Cat(String name, int run, boolean swim) {
-        this.name = name;
-        this.run = run;
-        this.swim = swim;
+    Cat(String name, float maxRun, float maxSwim) {
+        super(typeThisClass, name, maxRun, maxSwim);
+        ++countCat;
     }
 
-    public void catInfo() {
-        System.out.println("Cat: " + name + " пробежал(а): " + run+ " метров; " + " проплал(а): " + swim + " (кошачьи не плавают).");
+    @Override
+    protected int swim(float distance) {
+        return Animal.SWIM_NONE;
     }
 }
