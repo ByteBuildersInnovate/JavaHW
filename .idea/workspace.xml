@@ -5,11 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8923104-ba48-411c-a5e2-7d4ad9786ff8" name="Changes" comment="gui app whit lesson7">
-      <change afterPath="$PROJECT_DIR$/src/homework7/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework7/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework7/Plate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework7/description" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework8/Homework8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaHW/guiApp/Launcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaHW/guiApp/Launcher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaHW/guiApp/MainWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaHW/guiApp/MainWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaHW/guiApp/windowParts/GameMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaHW/guiApp/windowParts/GameMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaHW/guiApp/windowParts/InfoPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaHW/guiApp/windowParts/InfoPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaHW/guiApp/windowParts/areas/GameControlArea$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaHW/guiApp/windowParts/areas/GameControlArea$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaHW/guiApp/windowParts/areas/GameControlArea$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaHW/guiApp/windowParts/areas/GameControlArea$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaHW/guiApp/windowParts/areas/GameControlArea.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaHW/guiApp/windowParts/areas/GameControlArea.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaHW/guiApp/windowParts/areas/GameInfoArea.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaHW/guiApp/windowParts/areas/GameInfoArea.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaHW/guiApp/windowParts/areas/PlayerControlArea.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaHW/guiApp/windowParts/areas/PlayerControlArea.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaHW/guiApp/windowParts/areas/PlayerInfoArea.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaHW/guiApp/windowParts/areas/PlayerInfoArea.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaHW/homework1/Homework1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaHW/homework1/Homework1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaHW/homework2/Homework2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaHW/homework2/Homework2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaHW/homework3/Homework3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaHW/homework3/Homework3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaHW/homework4/ConsoleGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaHW/homework4/ConsoleGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaHW/homework5/Homework5$Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaHW/homework5/Homework5$Worker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaHW/homework5/Homework5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaHW/homework5/Homework5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaHW/homework6/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaHW/homework6/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaHW/homework6/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaHW/homework6/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaHW/homework6/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaHW/homework6/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaHW/homework6/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaHW/homework6/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaHW/oopPractice/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaHW/oopPractice/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaHW/oopPractice/MainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaHW/oopPractice/MainClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaHW/oopPractice/Plate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaHW/oopPractice/Plate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework6/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework6/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework6/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework6/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework6/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework6/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework6/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,11 +51,6 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="master" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -47,7 +69,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.homework7.MainClass">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Homework1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework1.Homework1" />
       <module name="JavaHW" />
@@ -67,6 +89,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="homework8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="guiApp.Launcher" />
+      <module name="JavaHW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="guiApp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,26 +135,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homework7.MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework7.MainClass" />
-      <module name="JavaHW" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.homework7.MainClass" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Homework8" />
         <item itemvalue="Application.Homework1" />
         <item itemvalue="Application.MainClass" />
+        <item itemvalue="Application.Launcher" />
       </list>
     </recent_temporary>
   </component>
